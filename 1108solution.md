@@ -122,11 +122,28 @@
 ## 簡述底下傳輸層協定(英文全名與簡單功能說明):
 
 ## TCP vs UDP
-
+    -TCP
+        -傳輸控制協定（英語：Transmission Control Protocol，縮寫：TCP）
+        -連接導向的、可靠的、基於位元組流的傳輸層通信協定
+        -屬『端點對端點』(End-to-End)
+        -在簡化的電腦網路OSI模型中
+        -完成第四層傳輸層所指定的功能
+ ------------------------------------------------------------- 
+  
+    -UDP
+        -使用者資料包協定（英語：User Datagram Protocol，縮寫：UDP)
+        -簡單的面向資料包的通信協定
+        -位於OSI模型的傳輸層
+        -效率為主要訴求
+        -缺乏可靠性且屬於無連接協定
+        
 ## reliable(可靠的) vs unreliable(不可靠的)
+    -reliable
+        -是屬於『同步傳輸』的協定
+        -雙向資料傳輸協定
+        -
 
 ## TCP three-way handshaking(三項交握)
-
 
 ## TCP syn flood attack
 
