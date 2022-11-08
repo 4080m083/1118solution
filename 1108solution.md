@@ -25,8 +25,9 @@
     - L4-switch 網路層 (Network)
 
 ## TCP/IP有那些層?寫出與OSI七層模型的對應!
-TCP 傳輸層 (Transport)
-IP 網路層 (Network)
+    TCP 傳輸層 (Transport)
+    
+    IP 網路層 (Network)
 
 # 簡述底下應用層協定(英文全名與簡單功能說明):
 ## HTTP vs HTTPs
