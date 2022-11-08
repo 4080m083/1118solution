@@ -3,11 +3,17 @@
 ## OSI有七層?簡述其功能
 
 (一)實體層 (Physical Layer)
+
 (二)資料鏈結層 (Data-Link Layer)
+
 (三)網路層 (Network Layer)
+
 (四)傳輸層 (Transport Layer)
+
 (五)交談層 (Session Layer)
+
 (六)表現層 (Presentation Layer)
+
 (七) 應用層 (Application Layer)
 
 OSI其功能：開放式網路架構所制定的電腦互連標準
