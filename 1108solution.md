@@ -43,13 +43,6 @@ IP 網路層 (Network)
     - HTTPS經由HTTP進行通訊，利用SSL/TLS來加密封包
     - 對網站伺服器的身分認證，保護交換資料的隱私與完整性。
 
-
-## HyperText Transfer Protocol 超文本傳輸協定
-
-## HTTP是一種用於分佈式、協作式和超媒體訊息系統的應用層協定
-
-## HTTP是全球資訊網的數據通信的基礎。
-
 ## DNS vs DNSsec
 
 ## telnet vs ssh
