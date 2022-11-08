@@ -2,15 +2,15 @@
 
 ## OSI有七層?簡述其功能
 
-    (一)實體層 (Physical Layer) 定義設備裝置之間位元資料傳輸
+    (一)實體層 (Physical Layer) 設備裝置之間位元資料傳輸
 
     (二)資料鏈結層 (Data-Link Layer) 針對相同網路(LAN)的兩個裝置之間的資料傳輸
 
     (三)網路層 (Network Layer) 針對位於不同網路(WAN)的兩個裝置之間的資料傳輸
 
-    (四)傳輸層 (Transport Layer) 負責處理流量控制和錯誤控制。
+    (四)傳輸層 (Transport Layer) 處理流量控制和錯誤控制。
 
-    (五)交談層 (Session Layer) 負責建立網絡連線、管理、及終止兩個通訊主機的對話
+    (五)交談層 (Session Layer) 建立網絡連線、管理、及終止兩個通訊主機的對話
 
     (六)表現層 (Presentation Layer) 負責轉譯、加密和壓縮資料
 
