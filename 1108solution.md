@@ -18,7 +18,7 @@
 
 OSI其功能：開放式網路架構所制定的電腦互連標準
 
-## 底下網路設備運作在哪一層? Hub, switch, router, L4-switch, 
+## 底下網路設備運作在哪一層? Hub, switch, router, L4-switch, proxy
     - Hub 實體層（Physical）
     - switch 資料鏈結層 (Data-Link)
     - router 網路層 (Network)
