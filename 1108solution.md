@@ -95,7 +95,7 @@
         - 安全的網絡的加密方法
         - 與FTP幾乎一樣的語法和功能
         
-### smtp, pop3
+### smtp , pop3
     - smtp
         - 簡單郵遞傳送協定（英語：Simple Mail Transfer Protocol，縮寫：SMTP）
         - 簡易郵件傳輸通訊協定
