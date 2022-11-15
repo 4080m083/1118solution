@@ -23,7 +23,7 @@
     - switch 資料鏈結層 (Data-Link)
     - router 網路層 (Network)
     - L4-switch 網路層 (Network)
-
+    - Prox代理（也稱網路代理）應用層 (Application)
 ### TCP/IP有那些層?寫出與OSI七層模型的對應!
     TCP 傳輸層 (Transport)
     
