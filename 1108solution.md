@@ -19,11 +19,12 @@
     OSI其功能：開放式網路架構所制定的電腦互連標準
 
 ### 底下網路設備運作在哪一層? Hub, switch, router, L4-switch, proxy
-    - Hub 實體層（Physical）
-    - switch 資料鏈結層 (Data-Link)
-    - router 網路層 (Network)
-    - L4-switch 網路層 (Network)
+    - Hub 集線器--網路層 (Network )
+    - switch --網路層 (Network )
+    - router --網路層 (Network)
+    - L4-switch --網路層 (Network)
     - Prox 代理（也稱網路代理）應用層 (Application)
+    
 ### TCP/IP有那些層?寫出與OSI七層模型的對應!
     TCP 傳輸層 (Transport)
     
