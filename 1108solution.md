@@ -26,6 +26,7 @@
     - Prox 代理（也稱網路代理）應用層 (Application)
     
 ### TCP/IP有那些層?寫出與OSI七層模型的對應!
+    TCP/IP的四層是：網路介面層，網路層，通道層和應用層。 
     TCP 傳輸層 (Transport)
     
     IP 網路層 (Network)
